@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen2</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="ocultar">Ocultar</string>
+    <string name="mostraar">Mostrar</string>
+    <string name="ocultaar">Ocultar</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etProductos" type="id" />
+    <item name="etNombre" type="id" />
+    <item name="etDireccion" type="id" />
+    <item name="btnRegistrar" type="id" />
+    <item name="btnLlamar" type="id" />
+    <item name="btnWhatsApp" type="id" />
+    <item name="btnMaps" type="id" />
+</resources>
